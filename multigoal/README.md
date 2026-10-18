@@ -8,7 +8,7 @@ Abre [demo.html](demo.html) desde GitHub Pages o servidor HTTP. Puedes simular e
 
 ## OBS
 
-Añade una **fuente de navegador** de **440×56 px** con `index.html`. La capa es transparente. Si usas GitHub Pages, la ruta es `https://sergiofdezcano.github.io/Multistream-Alerts/multigoal/index.html` una vez habilitado GitHub Pages en Settings > Pages.
+Añade una **fuente de navegador** de **440×56 px** con `index.html`. La capa es transparente. Si usas GitHub Pages, la ruta es `https://sergiofdezcano.github.io/Serg4Cano-Stream-Widgets/multigoal/index.html` una vez habilitado GitHub Pages en Settings > Pages.
 
 ## Configuración
 
