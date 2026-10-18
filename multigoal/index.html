@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <title>Serg4Cano · MultiGoal OBS</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="widget" role="status" aria-live="off" aria-label="Objetivo del streaming">
+    <div class="widget-head">
+      <div class="goal-name">
+        <span id="platform-icon" class="platform-icon" aria-hidden="true"></span>
+        <span id="goal-title" class="goal-title">Cargando objetivo...</span>
+      </div>
+      <span id="goal-count" class="goal-count" aria-label="Progreso actual">— / —</span>
+    </div>
+    <div id="goal-track" class="goal-track" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+      <div id="goal-fill" class="goal-fill"></div>
+    </div>
+  </main>
+  <script src="config.js"></script>
+  <script src="widget.js"></script>
+</body>
+</html>
