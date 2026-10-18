@@ -11,7 +11,7 @@ Widgets ligeros para **OBS Studio**, con automatizaciones a través de **Streame
 [![Vanilla JS](https://img.shields.io/badge/Vanilla-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-151B23?style=for-the-badge&logo=githubpages&logoColor=white)](https://pages.github.com/)
 
-**[🌐 Página del proyecto](https://sergiofdezcano.github.io/Multistream-Alerts/)** · **[▶ Probar MultiGoal](https://sergiofdezcano.github.io/Multistream-Alerts/multigoal/demo.html)** · **[📖 Documentación](multigoal/README.md)**
+**[🌐 Página del proyecto](https://sergiofdezcano.github.io/Serg4Cano-Stream-Widgets/)** · **[▶ Probar MultiGoal](https://sergiofdezcano.github.io/Serg4Cano-Stream-Widgets/multigoal/demo.html)** · **[📖 Documentación](multigoal/README.md)**
 
 </div>
 
@@ -52,7 +52,7 @@ El diseño del widget es deliberadamente compacto:
 
 <div align="center">
 
-### [Abrir demostración interactiva ↗](https://sergiofdezcano.github.io/Multistream-Alerts/multigoal/demo.html)
+### [Abrir demostración interactiva ↗](https://sergiofdezcano.github.io/Serg4Cano-Stream-Widgets/multigoal/demo.html)
 
 </div>
 
@@ -64,7 +64,7 @@ El diseño del widget es deliberadamente compacto:
 4. Introduce esta URL y configura **440 × 56 px**:
 
 ```text
-https://sergiofdezcano.github.io/Multistream-Alerts/multigoal/index.html
+https://sergiofdezcano.github.io/Serg4Cano-Stream-Widgets/multigoal/index.html
 ```
 
 La página de demostración incluye sus propios botones de simulación; **no** es la dirección que debes utilizar en OBS.
